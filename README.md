@@ -5,6 +5,8 @@ It supports 3 currencies [USD,EUR,YEN].
 
 Below are the images of app.
 
+<img width="332" alt="Screenshot 2025-01-31 at 4 07 16 PM" src="https://github.com/user-attachments/assets/3020603a-d8de-452b-811a-ceffeed7570d" />
+
 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-01-31 at 16 02 11](https://github.com/user-attachments/assets/dbbdfacb-377e-4fad-8f2c-edcbc39b4979)
 
