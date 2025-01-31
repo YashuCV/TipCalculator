@@ -8,9 +8,5 @@ Below are the images of app.
 <img width="332" alt="Screenshot 2025-01-31 at 4 07 16 PM" src="https://github.com/user-attachments/assets/3020603a-d8de-452b-811a-ceffeed7570d" />
 
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-31 at 16 02 11](https://github.com/user-attachments/assets/dbbdfacb-377e-4fad-8f2c-edcbc39b4979)
+<img width="338" alt="Screenshot 2025-01-31 at 4 06 55 PM" src="https://github.com/user-attachments/assets/94174d72-e374-4590-85f4-2d1c8e1fc1ea" />
 
-
-
-
-![Simulator Screenshot - iPhone 16 Pro - 2025-01-31 at 16 01 49](https://github.com/user-attachments/assets/daac46d3-f61a-408b-bff5-d00a432f94d5)
